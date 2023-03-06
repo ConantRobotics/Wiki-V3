@@ -1,17 +1,11 @@
-#Docs Conant Robotics
+#Conant Robotics Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the (un)official wiki for the Conant Robotics Documentation files!
 
-## Commands
+See the About page for more information about the wiki in general, including how to contribute and what idiot figured this would be worth anything.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Otherwise, start clicking around and look for the information you need, or search for it in the handy search tool.
 
-## Project layout
+Good luck!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+_insert gif of "this is pod racing" but replacing "pod racing" with "battlebots"_

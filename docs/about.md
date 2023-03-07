@@ -10,20 +10,53 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 
 ## Sign up for a Github Account
 
-1. Navigate to [www.github.com](www.github.com)
-
+1. Navigate to [www.github.com](www.github.com).
 ![github home page](img/signup/signup1.png)
 
 2. Click the "Sign Up" button in the top right corner and go through the signup process to create your GitHub account.
-
 ![sign up process](img/signup/signup2.png)
 
-## Project layout
+## Adding text to the Wiki
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+3. Navigate to [the Conant Robotics Repository](https://github.com/ConantRobotics/Wiki-V3). This is the repository that the documentation is based off of.
+![robotics repo](img/signup/signup3.png)
+
+4. Click on the folder named "docs", then "about.md" until you see a screen like the one below:
+![index file](img/signup/signup4.png)
+
+5. Click the pencil icon next to "Raw" and "Blame" so you can edit the file. Add your name to the bottom of the file under "Contributors". IMAGE IS TODO
+
+6. Now it's time to make some formatting changes to your name. Add two asterisks to the left and right of your name so that it looks like \*\*your name\*\*. If you click on the Preview tab at the top of the page, you can see that your name has been **bolded**. IMAGE IS TODO
+
+7. You can also _italicize_  your name by adding underscores (\_) to the left and right of your name. Remove the asterisks next to your name and replace them with underscores so it looks like \_your name\_. If you click on the Preview tab again, your name should be italicized. IMAGE IS TODO
+
+8. These modifiers can also be stacked, enabling you to really emphasize _**your name**_. Add the two asterisks back in, this time adding them around the underscores so it looks like \*\*\_your name\_\*\*. Now, your name should be **bolded** and _italicized_ in the Preview tab. IMAGE IS TODO
+
+9. After modifying the Contributors section to contain **_your name_**, press the green "Create a pull request" button at the bottom of the page. This will open a request for the Wiki moderator (Mr. Bruce or Mr. LeBlanc) to accept your changes and enter them into the wiki. IMAGE IS TODO
+
+## Adding an image to the Wiki
+
+10. Then, go back to the top of the page, and click the "docs" under "Wiki-V3/docs/about.md" file structure. This will take you back to the home directory, enabling you to enter the "img" directory containing all of the images. Once you're inside the "img" directory, press "Add Files" -> "Upload Files" and upload any image you have of yourself. This will be the image that goes under your name in the "Contributors section". IMAGE IS TODO
+
+11. Finally, go back to "docs/about.md" and add a link to your image under your name by adding **\!\[your name here\]\(/img/yourimagename.png\)**. IMAGE IS TODO
+
+12. Create a pull request for your image by click the green "Create a pull request" button. Once your pull request has been accepted, you'll have successfully added your name and image to the Contributors section and are officially ready to begin contributing to the wiki!
+
+## Advanced Contributions
+
+If you're looking at this section, it's assumed that you already:  
+- Have a GitHub account with your own coding projects in it  
+- Know how to contribute to a GitHub repository without going through the web interface  
+- Know how to clone, commit, and pull from a repo.  
+- Have promised not to do anything stupid with GitHub that would crash the Wiki.  
+- Know how to not do anything stupid with GitHub that would crash the Wiki.  
+- ~~Know how to quit Vim~~
+
+If you want and know how to, you can clone this repo onto your personal computer and use it to develop on the Wiki. 
+
+I recommend this solution if you're working with images, as it makes it easy to add all of the images into the img folder under a subdirectory. It's also helpful if you are very comfortable in your own IDE (all hail Vim) as it makes typing articles up much easier.
+
+There's no tutorial for this because I'm lazy, but it's good to try it out, especially if you're authoring a completely new article.
 
 # Motivation
 
@@ -37,8 +70,8 @@ That's why this wiki was created: to act as a digital repository of all discover
 
 ## Contributors
 
-_**Anmay Gupta, Captain of the 2023 Conant Robotics Team**_
+_**Anmay Gupta, Captain of the 2023 Conant Robotics Team**_  
 ![Anmay Gupta](img/idiot.jpg)
 
-_**Your Name Here**_
-please we need contributors i ain't writing this whole thing by myself
+---
+This article authored by Anmay Gupta in March 2023.

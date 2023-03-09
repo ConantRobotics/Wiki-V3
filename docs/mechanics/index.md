@@ -12,5 +12,7 @@ Robot combat is a competitive sport where robots designed for combat battle it o
 
 In robot combat, the design and implementation of these mechanical systems can significantly impact the robot's performance and success in the arena. Skilled robot builders carefully balance the trade-offs between speed, power, maneuverability, and defense to create a robot that can outmaneuver and outlast its opponents.
 
+In this section, we'll go over each of these core systems and describe their importance, common implementations, and advantages/disadvantages of those implementations.
+
 ---
 This article authored by Anmay Gupta and ChatGPT in March 2023.

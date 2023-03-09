@@ -1,6 +1,13 @@
-# Drive System 
+# Drive Systems Intro 
 
-A robot combat drive system is the mechanism that allows a robot to move and control its position and orientation during a combat. There are various types of drive systems that can be used for robot combat, each with its own advantages and disadvantages. Here are some of the most common types of drive systems used in robot combat and how they work:
+A robot combat drive system is the mechanism that allows a robot to move and control its position and orientation during combat. 
+The drive system is the most important part of the robot, as it opens up new possibilities for weapon systems, attacks, and driving manuevers.
+
+## Types of Drive Systems
+
+A robot combat drive system is the mechanism that allows a robot to move and control its position and orientation during combat. 
+There are various types of drive systems that can be used for robot combat, each with its own advantages and disadvantages.
+Here are some of the most common types of drive systems used in robot combat and how they work:
 
 - Differential Drive: Differential drive is the most common type of drive system used in robot combat. It uses two independently controlled wheels or tracks on each side of the robot, with each wheel or track powered by a separate motor. By varying the speed and direction of each motor, the robot can turn, move forward or backward, and spin in place. Differential drive provides good maneuverability and control, but can be vulnerable to tipping over if the weight distribution is not well-balanced.
 
@@ -31,30 +38,6 @@ Insert image of some four-wheeled robot here
 Insert image of a wide polycarbonate robot from Hersey in RR2023 as they were using a system similar to this
 
 In addition to the type of drive system used, the motors and controllers used to power and control the robot's movement are also important. High-quality, durable motors and controllers are essential for providing the robot with the power and precision it needs to navigate the battlefield and outmaneuver its opponents. The drive system and motors should be designed to work in harmony with the robot's other systems, such as its weapon and control systems, to provide an effective and efficient combat robot.
-
-# Differential Drive Limitations
-
-Due to it's frequent usage within battlebot competitions, it's important to address the limitations and the functionality of a differential drive in greater detail.
-
-A differential drive is a type of drive system commonly used in robots for its simplicity and maneuverability. This system consists of two independently controlled wheels or tracks, one on each side of the robot. Each wheel is powered by its own motor, which allows the robot to move forward and backward and turn in place by varying the speed and direction of each motor.
-
-The differential drive system works by using the difference in speed between the two wheels to turn the robot. For example, if the robot wants to turn to the left, the motor on the right side of the robot will slow down while the motor on the left side will speed up. This causes the robot to turn to the left as the wheels on the left side move faster than the wheels on the right side.
-
-The differential drive system is easy to implement and provides good control and maneuverability in a variety of environments. It is also relatively efficient and has a low power consumption compared to other drive systems.
-
-However, the differential drive system has some limitations. One major issue is that it can be prone to tipping over if the weight distribution of the robot is not well-balanced. This is because the robot relies on its wheels for stability, and if the weight is not distributed evenly, the robot may tip over when turning or accelerating.
-
-Additionally, a robot with too much weight on one side will have greater traction on that side. This results in the heavy side speeding up much faster than the other side, making the robot much harder to manuever as the robot will overshoot or undershoot turns unpredictably.
-
-Insert image of Janktality with batteries located on both sides of the weapon.
-
-This 
-
-Insert image of Janktality with batteries located on one side of the weapon.
-
-Another limitation of differential drive systems is that they can struggle on uneven or rough terrain. This is because the wheels may lose traction or become stuck on obstacles, making it difficult for the robot to move or turn. This is often resolved by placing casters on the bottom of the robot that can roll over any terrain differences, but it can be compensated for with a skilled driver.
-
-Overall, the differential drive system is a versatile and efficient drive system that is well-suited for many types of robot combat. However, designers must be aware of its limitations and work to ensure the robot's weight distribution and wheel design are optimized for maximum stability and control.
 
 ---
 This article authored by Anmay Gupta and ChatGPT in March 2023.

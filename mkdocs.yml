@@ -1,10 +1,81 @@
 site_name: Conant Robotics Documentation
 site_url: https://example.com
+repo_url: https://github.com/ConantRobotics/Wiki-V3
+edit_uri: blob/master/docs
+site_description: Web Documentation for Conant Robotics
+site_author: Anmay Gupta
 nav:
         - Home: index.md
         - About: about.md
-theme: readthedocs
+        - 'Useful Links': links.md
+        - Mechanics:  
+                - mechanics/index.md
+                - 'Drive System': 
+                        - mechanics/drive/index.md
+                        - 'Diff Drive': mechanics/drive/diffdrive.md
+                - 'Weapons': 
+                        - mechanics/weapons/index.md
+                        - 'Passive Weapons':
+                                - 'Wedges': mechanics/weapons/passive-weapons/wedges.md
+                                - 'Rams': mechanics/weapons/passive-weapons/rams.md
+                                - 'Hammers': mechanics/weapons/passive-weapons/hammers.md
+                                - 'Melty-Brains': mechanics/weapons/passive-weapons/melty.md
+                        - 'Active Weapons':
+                                - Spinners:
+                                        - 'Vertical Bar Spinner': mechanics/weapons/active-weapons/vertbarspin.md
+                                        - 'Horizontal Bar Spinner': mechanics/weapons/active-weapons/horbarspin.md
+                                        - 'Vertical Drum Spinners': mechanics/weapons/active-weapons/vertdrumspin.md
+                                        - 'Full Body Spinner': mechanics/weapons/active-weapons/fullspin.md
+                                        - 'Cage/Overhead Spinner': mechanics/weapons/active-weapons/overspin.md
+                                        - 'Saw': mechanics/weapons/active-weapons/saw.md
+                                        - 'Multi Spinners': mechanics/weapons/active-weapons/multispin.md
+                                - Hydraulics:
+                                        - 'Flipper': mechanics/weapons/active-weapons/flipper.md
+                                        - 'Crusher': mechanics/weapons/active-weapons/crusher.md
+                                        - 'Hammer': mechanics/weapons/active-weapons/hammer.md
+                                        - 'Spike': mechanics/weapons/active-weapons/spike.md
+                                - Other:
+                                        - 'Motor-Powered Flipper': mechanics/weapons/active-weapons/flippermotor.md
+                                        - 'Diagonal Spinner': mechanics/weapons/active-weapons/diagspin.md
+                                        - 'Self Righting': mechanics/weapons/active-weapons/selfrighting.md
+                - Armor: 
+                        - mechanics/armor/index.md
+        - Electronics:
+                - 'Intro': electronics/electronics-intro.md
+                - 'Motor': electronics/motor.md
+                - 'Battery': electronics/battery.md
+        - Radio:
+                - 'Intro': radio/radio-intro.md
+                - 'Receiver': radio/receiver.md
+                - 'Controller': radio/controller.md
+        - Coding:
+                - 'Intro': coding/coding-intro.md
+                - 'Battery Monitoring': coding/battery-management.md
+        - Driving:
+                - 'Intro': driving/driving-intro.md
+                - 'Tactics': driving/tactics.md
+                - 'Bragging': driving/bragging.md
+        - Wishlist:
+                - 'Intro': wishlist/wishlist-intro.md
+                - 'Kaizen Foam': wishlist/kaizen.md
+                - 'Weapon Improvements': wishlist/weapons.md
+                - 'Parts Organization': wishlist/sorting.md
+        - 'Captain Tips':
+                - 'Intro': captains/captain-intro.md
+                - 'Team Organization': captains/team-organization.md
+                - 'Team Culture': captains/culture.md
+                - 'Task Lists': captains/task-lists.md
+theme: 
+        name: material
+        locale: en
+        features:
+                - navigation.instant
+                - navigation.tabs
+                - navigation.sections
+                - navigation.expand
+                - navigation.footer
 markdown_extensions:
         - toc:
                 permalink: True
         - pymdownx.tilde
+        - sane_lists

@@ -1,14 +1,12 @@
-[TOC]
-
 # Useful Links 
 
 This is a collection of useful links and documents for everything and anything robotics related.
 
-# Past Competition Videos
+## Past Competition Videos
 
 This is a repository of the past Robot Rumble videos, most of which were recorded by the school themselves. You can watch these videos in their entirety to see all of the robot fights.
 
-## Robot Rumble 2023 
+### Robot Rumble 2023 
 
 Captain: Anmay Gupta  
 Co-Captains: Yash Thakker, Daniel Koltchev, Kenny Huang, and Nicolas Faryniuk  
@@ -20,7 +18,7 @@ Drivers: Anmay Gupta and Ayush Rai
 
 [Janktality Fights - From the Driver's Box (Thanks Muhammad)](https://drive.google.com/drive/folders/1SI1nvBTYQHgOSNTqXGWVFm_KRjMuYwee?usp=share_link)
 
-## Robot Rumble 2022
+### Robot Rumble 2022
 
 Captains: Arjun Patel  
 Co-Captains: Anmay Gupta  
@@ -32,11 +30,11 @@ Drivers: Arjun Patel and Anmay Gupta
 
 [Robot Rumble 2022 Day 2 (Pt 2)](https://vimeo.com/682302370)
 
-## Robot Rumble 2021
+### Robot Rumble 2021
 
 COVID was amazing!
 
-## Robot Rumble 2020
+### Robot Rumble 2020
 
 Captains: Matthew Dembny, Nathan Flores, and Anthony Naira  
 Drivers: Matthew Dembny, Anthony Naira, and Kyla Herr  
@@ -45,12 +43,12 @@ Drivers: Matthew Dembny, Anthony Naira, and Kyla Herr
 
 [Robot Rumble 2020 Day 2](https://vimeo.com/394635561)
 
-# BattleBots Wiki
+## BattleBots Wiki
 
 [Wiki Link](https://battlebots.fandom.com/wiki/BattleBots_Wiki-Main_Page)  
 [Weapons](https://battlebots.fandom.com/wiki/Category:Weapons)
 
-# Wiki Tutorials
+## Wiki Tutorials
 
 [Markdown Usage](https://www.markdownguide.org/)  
 [Github Docs](https://docs.github.com/en/get-started)  

@@ -1,14 +1,14 @@
-[TOC]
+# About
 
-# About Conant Robotics
+## Who We Are
 
 Conant Robotics is a high school combat robotics team located in James B. Conant High School in Hoffman Estates, Illinois, participating in the lightweight and middleweight combat categories at the D214 Robot Rumble.
 
 This wiki was founded by the 2023 Conant Robotics team members after Conant High School's undefeated first place finish. 
 
-# Contributing
+## Contributing
 
-## Sign up for a Github Account
+### Sign up for a Github Account
 
 1. Navigate to [www.github.com](www.github.com).
 ![github home page](img/signup/signup1.png)
@@ -16,7 +16,7 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 2. Click the "Sign Up" button in the top right corner and go through the signup process to create your GitHub account.
 ![sign up process](img/signup/signup2.png)
 
-## Adding text to the Wiki
+### Adding text to the Wiki
 
 3. Navigate to [the Conant Robotics Repository](https://github.com/ConantRobotics/Wiki-V3). This is the repository that the documentation is based off of.
 ![robotics repo](img/signup/signup3.png)
@@ -34,7 +34,7 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 
 9. After modifying the Contributors section to contain **_your name_**, press the green "Create a pull request" button at the bottom of the page. This will open a request for the Wiki moderator (Mr. Bruce or Mr. LeBlanc) to accept your changes and enter them into the wiki. IMAGE IS TODO
 
-## Adding an image to the Wiki
+### Adding an image to the Wiki
 
 10. Then, go back to the top of the page, and click the "docs" under "Wiki-V3/docs/about.md" file structure. This will take you back to the home directory, enabling you to enter the "img" directory containing all of the images. Once you're inside the "img" directory, press "Add Files" -> "Upload Files" and upload any image you have of yourself. This will be the image that goes under your name in the "Contributors section". IMAGE IS TODO
 
@@ -58,7 +58,7 @@ I recommend this solution if you're working with images, as it makes it easy to 
 
 There's no tutorial for this because I'm lazy, but it's good to try it out, especially if you're authoring a completely new article.
 
-# Motivation
+## Motivation
 
 This wiki was founded by Anmay Gupta and the rest of the Robotics Club Class of '23 after realizing that none of the underclassmen knew anything about mechanical design and all of the seniors were graduating the next year.
 

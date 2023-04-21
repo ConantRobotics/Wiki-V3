@@ -17,7 +17,7 @@ Janktality used a differential drive system due to its simplicity and manueverab
 
 - Differential Drive with Casters: This is the same basic concept as a differential drive, but it utilizes two additional wheels in the front of the robot to reduce scraping on the arena floor. By using these additional wheels, the robot is able to better traverse uneven terrain (such as a torn-up arena floor) and often has improved control. However, it's extremely difficult to create a wedge using this drive system, as a wedge needs to scrape the floor in order to be effective. As such, this method is often used on very long or wide robots that "sag" in the center, using the two caster wheels to lift the center back up.
 
-![spatula being flipped by janktality, exposing its underside](../img/mechanics/diffdrivecasters.png) 
+![spatula being flipped by janktality, exposing its underside](../../img/mechanics/diffdrivecasters.png) 
 
 Spatula, a hydraulic flipper, used two ball casters under its wedge to prevent the wedge from scraping the ground and reducing manueverability. There's only one in the picture as we knocked off the other one.
 

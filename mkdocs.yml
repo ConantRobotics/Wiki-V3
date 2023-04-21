@@ -22,22 +22,22 @@ nav:
                                 - 'Melty-Brains': mechanics/passive-weapons/melty.md
                         - 'Active Weapons':
                                 - Spinners:
-                                        - 'Vertical Bar Spinner': mechanics/weapons/active-weapons/vertbarspin.md
-                                        - 'Horizontal Bar Spinner': mechanics/weapons/active-weapons/horbarspin.md
-                                        - 'Vertical Drum Spinners': mechanics/weapons/active-weapons/vertdrumspin.md
-                                        - 'Full Body Spinner': mechanics/weapons/active-weapons/fullspin.md
-                                        - 'Cage/Overhead Spinner': mechanics/weapons/active-weapons/overspin.md
-                                        - 'Saw': mechanics/weapons/active-weapons/saw.md
-                                        - 'Multi Spinners': mechanics/weapons/active-weapons/multispin.md
+                                        - 'Vertical Bar Spinner': mechanics/active-weapons/vertbarspin.md
+                                        - 'Horizontal Bar Spinner': mechanics/active-weapons/horbarspin.md
+                                        - 'Vertical Drum Spinners': mechanics/active-weapons/vertdrumspin.md
+                                        - 'Full Body Spinner': mechanics/active-weapons/fullspin.md
+                                        - 'Cage/Overhead Spinner': mechanics/active-weapons/overspin.md
+                                        - 'Saw': mechanics/active-weapons/saw.md
+                                        - 'Multi Spinners': mechanics/active-weapons/multispin.md
                                 - Hydraulics:
-                                        - 'Flipper': mechanics/weapons/active-weapons/flipper.md
-                                        - 'Crusher': mechanics/weapons/active-weapons/crusher.md
-                                        - 'Hammer': mechanics/weapons/active-weapons/hammer.md
-                                        - 'Spike': mechanics/weapons/active-weapons/spike.md
+                                        - 'Flipper': mechanics/active-weapons/flipper.md
+                                        - 'Crusher': mechanics/active-weapons/crusher.md
+                                        - 'Hammer': mechanics/active-weapons/hammer.md
+                                        - 'Spike': mechanics/active-weapons/spike.md
                                 - Other:
-                                        - 'Motor-Powered Flipper': mechanics/weapons/active-weapons/flippermotor.md
-                                        - 'Diagonal Spinner': mechanics/weapons/active-weapons/diagspin.md
-                                        - 'Self Righting': mechanics/weapons/active-weapons/selfrighting.md
+                                        - 'Motor-Powered Flipper': mechanics/active-weapons/flippermotor.md
+                                        - 'Diagonal Spinner': mechanics/active-weapons/diagspin.md
+                                        - 'Self Righting': mechanics/active-weapons/selfrighting.md
                 - Armor: 
                         - mechanics/armor/index.md
         - Electronics:

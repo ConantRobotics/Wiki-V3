@@ -1,6 +1,6 @@
 [TOC]
 
-# Article Title 
+# Wedges
 
 ---
-This article authored by Your Name in Month 202x.
+This article authored by Anmay Gupta and ChatGPT in April 2023.

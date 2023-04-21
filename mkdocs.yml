@@ -16,7 +16,7 @@ nav:
                 - 'Weapons': 
                         - mechanics/weapons/index.md
                         - 'Passive Weapons':
-                                - 'Wedges': mechanics/passive-weapons/wedges/wedges.md
+                                - 'Wedges': mechanics/passive-weapons/wedges.md
                                 - 'Rams': mechanics/passive-weapons/rams.md
                                 - 'Hammers': mechanics/passive-weapons/hammers.md
                                 - 'Melty-Brains': mechanics/passive-weapons/melty.md

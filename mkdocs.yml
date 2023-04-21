@@ -16,10 +16,10 @@ nav:
                 - 'Weapons': 
                         - mechanics/weapons/index.md
                         - 'Passive Weapons':
-                                - 'Wedges': mechanics/weapons/passive-weapons/wedges.md
-                                - 'Rams': mechanics/weapons/passive-weapons/rams.md
-                                - 'Hammers': mechanics/weapons/passive-weapons/hammers.md
-                                - 'Melty-Brains': mechanics/weapons/passive-weapons/melty.md
+                                - 'Wedges': mechanics/passive-weapons/wedges/wedges.md
+                                - 'Rams': mechanics/passive-weapons/rams.md
+                                - 'Hammers': mechanics/passive-weapons/hammers.md
+                                - 'Melty-Brains': mechanics/passive-weapons/melty.md
                         - 'Active Weapons':
                                 - Spinners:
                                         - 'Vertical Bar Spinner': mechanics/weapons/active-weapons/vertbarspin.md

@@ -49,7 +49,7 @@ If you're looking at this section, it's assumed that you already:
 - Know how to contribute to a GitHub repository without going through the web interface  
 - Know how to clone, commit, and pull from a repo.  
 - Have promised not to do anything stupid with GitHub that would crash the Wiki.  
-- Know how to not do anything stupid with GitHub that would crash the Wiki.  
+- Know how to not do anything stupid with GitHub that would crash the Wiki.
 - ~~Know how to quit Vim~~
 
 If you want and know how to, you can clone this repo onto your personal computer and use it to develop on the Wiki. 
@@ -57,6 +57,19 @@ If you want and know how to, you can clone this repo onto your personal computer
 I recommend this solution if you're working with images, as it makes it easy to add all of the images into the img folder under a subdirectory. It's also helpful if you are very comfortable in your own IDE (all hail Vim) as it makes typing articles up much easier.
 
 There's no tutorial for this because I'm lazy, but it's good to try it out, especially if you're authoring a completely new article.
+
+## Using a Proper Editor
+Alternatively, you can write documentation on the school computers! This is much easier while still giving you advanced editing control over the directories.
+
+It's also just a nicer editor based off of VSCode, so I would recommend having some VSCode or at least IDE experience in order to use this method.
+
+To enter the online VSCode editor, navigate to this repo's GitHub page ([here](https://github.com/ConantRobotics/Wiki-V3)) and press the period button on your keyboard (".").
+If this doesn't work, click on this link: (https://github.dev/ConantRobotics/Wiki-V3)[https://github.dev/ConantRobotics/Wiki-V3]
+
+This will take you into an online IDE that looks like this:
+![image of web editor](img/signup/EditorImage.png)
+
+You can navigate within the file directory on the left to find the file that you want, and even upload images into the **docs/img** directory.
 
 ## Motivation
 

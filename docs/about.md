@@ -64,7 +64,7 @@ Alternatively, you can write documentation on the school computers! This is much
 It's also just a nicer editor based off of VSCode, so I would recommend having some VSCode or at least IDE experience in order to use this method.
 
 To enter the online VSCode editor, navigate to this repo's GitHub page ([here](https://github.com/ConantRobotics/Wiki-V3)) and press the period button on your keyboard (".").
-If this doesn't work, click on this link: (https://github.dev/ConantRobotics/Wiki-V3)[https://github.dev/ConantRobotics/Wiki-V3]
+If this doesn't work, click on this link: [https://github.dev/ConantRobotics/Wiki-V3](https://github.dev/ConantRobotics/Wiki-V3)
 
 This will take you into an online IDE that looks like this:
 ![image of web editor](img/signup/EditorImage.PNG)

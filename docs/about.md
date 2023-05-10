@@ -42,6 +42,21 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 
 12. Create a pull request for your image by click the green "Create a pull request" button. Once your pull request has been accepted, you'll have successfully added your name and image to the Contributors section and are officially ready to begin contributing to the wiki!
 
+## Using a Proper Editor
+Alternatively, you can write documentation on the school computers! This is much easier while still giving you advanced editing control over the directories.
+
+It's also just a nicer editor based off of VSCode, so I would recommend having some VSCode or at least IDE experience in order to use this method.
+
+To enter the online VSCode editor, navigate to this repo's GitHub page ([here](https://github.com/ConantRobotics/Wiki-V3)) and press the period button on your keyboard (".").
+If this doesn't work, click on this link: [https://github.dev/ConantRobotics/Wiki-V3](https://github.dev/ConantRobotics/Wiki-V3)
+
+This will take you into an online IDE that looks like this:
+![image of web editor](img/signup/EditorImage.PNG)
+
+You can navigate within the file directory on the left to find the file that you want, and even upload images into the **docs/img** directory.
+
+This will be second nature to all of you who are in computer science, so I advice you use this method rather than all the novice stuff I wrote up earlier.
+
 ## Advanced Contributions
 
 If you're looking at this section, it's assumed that you already:  
@@ -57,19 +72,6 @@ If you want and know how to, you can clone this repo onto your personal computer
 I recommend this solution if you're working with images, as it makes it easy to add all of the images into the img folder under a subdirectory. It's also helpful if you are very comfortable in your own IDE (all hail Vim) as it makes typing articles up much easier.
 
 There's no tutorial for this because I'm lazy, but it's good to try it out, especially if you're authoring a completely new article.
-
-## Using a Proper Editor
-Alternatively, you can write documentation on the school computers! This is much easier while still giving you advanced editing control over the directories.
-
-It's also just a nicer editor based off of VSCode, so I would recommend having some VSCode or at least IDE experience in order to use this method.
-
-To enter the online VSCode editor, navigate to this repo's GitHub page ([here](https://github.com/ConantRobotics/Wiki-V3)) and press the period button on your keyboard (".").
-If this doesn't work, click on this link: [https://github.dev/ConantRobotics/Wiki-V3](https://github.dev/ConantRobotics/Wiki-V3)
-
-This will take you into an online IDE that looks like this:
-![image of web editor](img/signup/EditorImage.PNG)
-
-You can navigate within the file directory on the left to find the file that you want, and even upload images into the **docs/img** directory.
 
 ## Motivation
 

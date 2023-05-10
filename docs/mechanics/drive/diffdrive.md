@@ -12,11 +12,11 @@ However, the differential drive system has some limitations. One major issue is 
 
 Additionally, a robot with too much weight on one side will have greater traction on that side. This results in the heavy side speeding up much faster than the other side, making the robot much harder to manuever as the robot will overshoot or undershoot turns unpredictably.
 
-Insert image of Janktality with batteries located on both sides of the weapon.
+<!-- Insert image of Janktality with batteries located on both sides of the weapon. -->
 
 This is the ideal center of mass distribution for a differential drive, as it ensures both wheels have the same traction. That's why supremely tight and fast turns could be taken during battle, opening up multiple methods to counterattack after being rammed into the wall.
 
-Insert image of Janktality with batteries located on one side of the weapon.
+<!-- Insert image of Janktality with batteries located on one side of the weapon. -->
 
 This distribution is what was operated the first year of Janktality's operation,
 
@@ -24,7 +24,7 @@ Another limitation of differential drive systems is that they can struggle on un
 
 ![2020 Schaumburg's robot flipped on its side, a crack in the floor clearly visible](../../img/mechanics/schaumburgflip.png)
 
-In 2020, Schaumburg's driver was bad (like way worse than Anmay Gupta), so they drove over a crack in the arena floor that lifted their robot up slightly, as you can see in the image. This, combined with the gradual dulling of their wedge during the competition, allowed the flipper they were facing to slip their wedge under the robot and easily flip them. If you want to see the full fight, watch the [2020 Robot Rumble video](https://vimeo.com/394635561#t=20270s) at timestamp 5:37:50.
+In 2020, Schaumburg's driver was bad (way worse than I am), so they drove over a crack in the arena floor that lifted their robot up slightly, as you can see in the image. This, combined with the gradual dulling of their wedge during the competition, allowed the flipper they were facing to slip their wedge under the robot and easily flip them. If you want to see the full fight, watch the [2020 Robot Rumble video](https://vimeo.com/394635561#t=20270s) at timestamp 5:37:50.
 
 Overall, the differential drive system is a versatile and efficient drive system that is well-suited for many types of robot combat. However, designers must be aware of its limitations and work to ensure the robot's weight distribution and wheel design are optimized for maximum stability and control.
 

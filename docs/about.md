@@ -10,7 +10,7 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 
 ### Sign up for a Github Account
 
-1. Navigate to [www.github.com](www.github.com).
+1. Navigate to [www.github.com](https://github.com/).
 ![github home page](img/signup/signup1.png)
 
 2. Click the "Sign Up" button in the top right corner and go through the signup process to create your GitHub account.
@@ -67,7 +67,7 @@ To enter the online VSCode editor, navigate to this repo's GitHub page ([here](h
 If this doesn't work, click on this link: (https://github.dev/ConantRobotics/Wiki-V3)[https://github.dev/ConantRobotics/Wiki-V3]
 
 This will take you into an online IDE that looks like this:
-![image of web editor](img/signup/EditorImage.png)
+![image of web editor](img/signup/EditorImage.PNG)
 
 You can navigate within the file directory on the left to find the file that you want, and even upload images into the **docs/img** directory.
 
@@ -83,7 +83,7 @@ That's why this wiki was created: to act as a digital repository of all discover
 
 ## Contributors
 
-_**Anmay Gupta, Captain of the 2023 Conant Robotics Team**_  
+_**Anmay Gupta '23, Captain of the 2023 Conant Robotics Team**_  
 ![Anmay Gupta](img/idiot.jpg)
 
 ---

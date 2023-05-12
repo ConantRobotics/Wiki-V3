@@ -8,6 +8,7 @@ nav:
         - Home: index.md
         - About: about.md
         - 'Useful Links': links.md
+        - 'The Competition': competition.md
         - Mechanics:  
                 - mechanics/index.md
                 - 'Drive System': 

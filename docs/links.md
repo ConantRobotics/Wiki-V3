@@ -4,6 +4,8 @@ This is a collection of useful links and documents for everything and anything r
 
 ## Past Competition Videos
 
+<div class="tenor-gif-embed" data-postid="18352961" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/watching-tv-the-pet-collective-entertained-cat-gif-18352961">Watching Tv The Pet Collective GIF</a>from <a href="https://tenor.com/search/watching+tv-gifs">Watching Tv GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 This is a repository of the past Robot Rumble videos, most of which were recorded by the school themselves. You can watch these videos in their entirety to see all of the robot fights.
 
 ### Robot Rumble 2023 
@@ -21,7 +23,7 @@ Drivers: Anmay Gupta and Ayush Rai
 ### Robot Rumble 2022
 
 Captains: Arjun Patel  
-Co-Captains: Anmay Gupta  
+Co-Captains: Anmay Gupta
 Drivers: Arjun Patel and Anmay Gupta  
 
 [Robot Rumble 2022 Day 1](https://vimeo.com/680868500)

@@ -8,4 +8,5 @@ Otherwise, start clicking around and look for the information you need, or searc
 
 Good luck!
 
-_insert gif of "this is pod racing" but replacing "pod racing" with "battlebots"_
+<div class="tenor-gif-embed" data-postid="4092664" data-share-method="host" data-aspect-ratio="1.59119" data-width="100%"><a href="https://tenor.com/view/fightinginstyle-roomba-cat-gif-4092664">Fighting In Style. GIF</a>from <a href="https://tenor.com/search/fightinginstyle-gifs">Fightinginstyle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<sup>Cat GIFs are a requirement of any good documentation page</sup>

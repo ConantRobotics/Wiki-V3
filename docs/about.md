@@ -25,7 +25,7 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 When you visit [https://github.dev/ConantRobotics/Wiki-V3](https://github.dev/ConantRobotics/Wiki-V3), it should look something like this:
 ![image of web editor](img/signup/EditorImage.PNG)
 
-This is called an _IDE_, or **I**ntegrated **D**eveloper **E**nvironment, and it's how you can navigate between the files contained within a code project
+This is called an _IDE_, or **I**ntegrated **D**eveloper **E**nvironment, and it's how you can navigate between the files contained within a code project.
 
 You can navigate within the file directory on the left to find the file that you want, and even upload images into the **docs/img** directory.
 

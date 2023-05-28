@@ -8,6 +8,8 @@ This wiki was founded by the 2023 Conant Robotics team members after Conant High
 
 ## Contributing
 
+![Cat typing on keyboard](https://tenor.com/view/cat-keyboard-typing-twitter-fingers-gif-13146203)
+
 ### Sign up for a Github Account
 
 1. Navigate to [www.github.com](https://github.com/).
